@@ -1,0 +1,9 @@
+.classCard {
+  padding: 1rem;
+  border: 1px solid gray;
+  border-radius: 4px;
+  text-align: left;
+  width: 480px;
+  max-width: 90vw;
+  margin-bottom: 1rem;
+}
